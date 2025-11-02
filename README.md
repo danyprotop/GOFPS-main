@@ -12,4 +12,10 @@ go mod init gofps
 
 go get github.com/fatih/color
 
+touch ranges.txt
+
+touch found_ips.txt
+
+put the ip ranges in ranges.txt
+
 go run app.go
