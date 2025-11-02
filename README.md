@@ -1,6 +1,6 @@
 OPEN PORT SCANNER on Golang
 
-Instruction how to install on linux/termux:
+Instruction how to install on termux:
 
 pkg install golang
 
